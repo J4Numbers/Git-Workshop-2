@@ -7,3 +7,8 @@ Change 1
 ------------------------------------
 
 Committing code produces a timeline of changes from file to file.
+
+Change 2
+------------------------------------
+
+The reflog is a list of all these commits and changes.
