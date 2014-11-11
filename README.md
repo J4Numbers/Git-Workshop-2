@@ -26,3 +26,10 @@ Contents
  - Merging in Git
  - Merge Conflicts and Resolution Options
  - Tagging
+
+Exercise List
+------------------------------------
+
+ * Create your own branch from master, change the line in the hello.txt file and push it to the repo
+ * Checkout the master branch and change the line to something else again (Don't push to the repo)
+ * Merge your branch into master and resolve the conflict so your change to master is kept
