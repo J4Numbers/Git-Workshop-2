@@ -1,4 +1,4 @@
-Welcome
+Git Workshop 2 (The Clone Wars)
 ====================================
 
 This is the readme file of the repository. GitHub will look through the repository for these files and show them in their parsed form to the user.
@@ -17,3 +17,12 @@ Change 3
 ------------------------------------
 
 This means that you are able to go back through your code and see what changes and when it changed.
+
+Contents
+------------------------------------
+
+ - A Quick Reminder
+ - Git Reflog & Log
+ - Merging in Git
+ - Merge Conflicts and Resolution Options
+ - Tagging
