@@ -12,3 +12,8 @@ Change 2
 ------------------------------------
 
 The reflog is a list of all these commits and changes.
+
+Change 3
+------------------------------------
+
+This means that you are able to go back through your code and see what changes and when it changed.
